@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I'm Luca 👋
+
+### Languages
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Go](https://img.shields.io/badge/-Go-000?&logo=JavaScript)
+
 
 <!--
 **lucatodeschini/lucatodeschini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
