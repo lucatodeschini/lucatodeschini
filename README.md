@@ -1,12 +1,11 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+### Hi there 👋
 My name is Luca and I'm working as senior software engineer @IKEA🇸🇪. 
 I'm from Italy🇮🇹 and I'm based in Amsterdam🇳🇱.
 
 You can also find me
 
 <a href="https://www.linkedin.com/in/luca-todeschini/">
-  <img align="left" alt="Luca's LinkedIN" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  LinkedIn
 </a>
 <br />
 
